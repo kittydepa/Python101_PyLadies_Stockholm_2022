@@ -8,7 +8,7 @@ This is a free course, hosted mainly in-person in the Stockholm city centre.
 
 The aim of this course is to provide a safe, and structured learning environment to get more women coding in Python.
 This is the first course in an expected series of courses.
-With these courses, we want to mentor, learn, and grow as a community.
+With these courses we want to mentor, learn, and grow as a community.
 
 This course has included learning the basics of Python 🐍 such as:
 
